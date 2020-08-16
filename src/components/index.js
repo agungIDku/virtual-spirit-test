@@ -1,0 +1,1 @@
+export {default as ItemPost} from './ItemPost'
